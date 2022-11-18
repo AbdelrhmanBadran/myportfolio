@@ -75,7 +75,7 @@ box-shadow: none;
     typing 3.5s steps(26, end) infinite,
     blink-caret .5s step-end infinite;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 780px) {
   .typewriter h5 {
     font-size: 15px;
     
